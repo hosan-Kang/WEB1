@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>우리 가정에 오신 것을 환영합니다</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li><a href="#">Home</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Services</a></li>
+          <li><a href="#">Contact Us</a></li>
+        </ul>
+      </nav>
+      <h1>우리 가정에 오신 것을 환영합니다</h1>
+      <p>우리는 따뜻한 느낌의 가정을 위한 서비스를 제공합니다.</p>
+      <a href="#" class="button">서비스 예약하기</a>
+    </header>
+    <main>
+      <section>
+        <h2>우리의 서비스</h2>
+        <p>우리는 다음과 같은 서비스를 제공합니다.</p>
+        <ul>
+          <li>청소</li>
+          <li>세탁</li>
+          <li>반려동물 돌봄</li>
+          <li>식사 준비</li>
+          <li>식료품 구매</li>
+        </ul>
+      </section>
+      <section>
+        <h2>우리의 이점</h2>
+        <ul>
+          <li>전문가의 경험이 풍부합니다.</li>
+          <li>고객만족도가 높습니다.</li>
+          <li>저렴한 가격으로 제공됩니다.</li>
+        </ul>
+      </section>
+      <section>
+        <h2>우리와 함께 일하십시오</h2>
+        <p>저희 서비스를 이용하시려면 예약이 필요합니다. 아래 버튼을 클릭하여 예약을 진행하십시오.</p>
+        <a href="#" class="button">서비스 예약하기</a>
+      </section>
+    </main>
+    <footer>
+      <p>Copyright ©
+        <script>document.write(new Date().getFullYear())</script>
+        우리 가정. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
